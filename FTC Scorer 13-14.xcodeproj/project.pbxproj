@@ -21,8 +21,6 @@
 		5C3DB12617DEE87A004DD31F /* biggear.png in Resources */ = {isa = PBXBuildFile; fileRef = 5C3DB12517DEE87A004DD31F /* biggear.png */; };
 		5C3DB12817DEE896004DD31F /* medgear.png in Resources */ = {isa = PBXBuildFile; fileRef = 5C3DB12717DEE896004DD31F /* medgear.png */; };
 		5C3DB12A17DEE8A0004DD31F /* smallgear.png in Resources */ = {isa = PBXBuildFile; fileRef = 5C3DB12917DEE89F004DD31F /* smallgear.png */; };
-		5C3DB12C17DEE8AD004DD31F /* smallviperlogo.png in Resources */ = {isa = PBXBuildFile; fileRef = 5C3DB12B17DEE8AD004DD31F /* smallviperlogo.png */; };
-		5C3DB12E17DEE951004DD31F /* viperlogo.png in Resources */ = {isa = PBXBuildFile; fileRef = 5C3DB12D17DEE951004DD31F /* viperlogo.png */; };
 		5C3DB13017DEEBE0004DD31F /* MessageUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5C3DB12F17DEEBE0004DD31F /* MessageUI.framework */; };
 		5C3DB13217DEEBE6004DD31F /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5C3DB13117DEEBE6004DD31F /* QuartzCore.framework */; };
 		5C3DB13517DEEE8F004DD31F /* bigcrate6.png in Resources */ = {isa = PBXBuildFile; fileRef = 5C3DB13317DEEE8E004DD31F /* bigcrate6.png */; };
@@ -81,8 +79,6 @@
 		5C3DB12517DEE87A004DD31F /* biggear.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = biggear.png; sourceTree = "<group>"; };
 		5C3DB12717DEE896004DD31F /* medgear.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = medgear.png; sourceTree = "<group>"; };
 		5C3DB12917DEE89F004DD31F /* smallgear.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = smallgear.png; sourceTree = "<group>"; };
-		5C3DB12B17DEE8AD004DD31F /* smallviperlogo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = smallviperlogo.png; sourceTree = "<group>"; };
-		5C3DB12D17DEE951004DD31F /* viperlogo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = viperlogo.png; sourceTree = "<group>"; };
 		5C3DB12F17DEEBE0004DD31F /* MessageUI.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MessageUI.framework; path = System/Library/Frameworks/MessageUI.framework; sourceTree = SDKROOT; };
 		5C3DB13117DEEBE6004DD31F /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
 		5C3DB13317DEEE8E004DD31F /* bigcrate6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bigcrate6.png; sourceTree = "<group>"; };
@@ -258,8 +254,6 @@
 				5C3DB12517DEE87A004DD31F /* biggear.png */,
 				5C3DB12717DEE896004DD31F /* medgear.png */,
 				5C3DB12917DEE89F004DD31F /* smallgear.png */,
-				5C3DB12B17DEE8AD004DD31F /* smallviperlogo.png */,
-				5C3DB12D17DEE951004DD31F /* viperlogo.png */,
 				5C096CD617DC83770011F5F6 /* FilledCratePics */,
 				5C096CD417DC79D00011F5F6 /* block.png */,
 				5C73459217DC6A7F001B26E0 /* bigcrate.png */,
@@ -367,8 +361,6 @@
 				5C3DB12617DEE87A004DD31F /* biggear.png in Resources */,
 				5C3DB12817DEE896004DD31F /* medgear.png in Resources */,
 				5C3DB12A17DEE8A0004DD31F /* smallgear.png in Resources */,
-				5C3DB12C17DEE8AD004DD31F /* smallviperlogo.png in Resources */,
-				5C3DB12E17DEE951004DD31F /* viperlogo.png in Resources */,
 				5C6AB3141849B3B1005D5433 /* Default-Landscape.png in Resources */,
 				5C3DB13517DEEE8F004DD31F /* bigcrate6.png in Resources */,
 				5C3DB13617DEEE8F004DD31F /* bigcrate7.png in Resources */,

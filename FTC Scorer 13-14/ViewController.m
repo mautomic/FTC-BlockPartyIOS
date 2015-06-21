@@ -65,7 +65,7 @@
     
     
     // Email??
-    contactList = [NSArray arrayWithObjects:@"completeiphelp@gmail.com", nil];
+    contactList = [NSArray arrayWithObjects:@"x@gmail.com", nil];
     
     
     // Set up animation properties for the applying object
